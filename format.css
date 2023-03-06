@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+
+h1{
+    background-color: rgb(102, 183, 254);
+    color: #000c32;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+footer{
+    background-color: rgb(102, 183, 254);
+    color: #000c32;
+}
+
+dl{
+    background-color: rgb(223, 206, 255);
+    color: #000c32;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
